@@ -1,0 +1,49 @@
+model+variant,model,variant,features,specs,mileage_kmpl,safety_rating,city,ex_showroom_price,on_road_price
+Swift_LXI,Maruti Swift,LXI,"Power Steering, AC","1197cc Petrol, Manual, 89bhp",22.38,4,Delhi,600000,670000
+Swift_VXI,Maruti Swift,VXI,"Touchscreen, Bluetooth","1197cc Petrol, Manual, 89bhp",22.38,4,Mumbai,700000,780000
+Swift_ZXI,Maruti Swift,ZXI,"Alloy Wheels, Push Start","1197cc Petrol, Manual, 89bhp",22.38,4,Bangalore,820000,920000
+Baleno_Sigma,Maruti Baleno,Sigma,Basic Infotainment,"1197cc Petrol, Manual, 90bhp",22.9,4,Delhi,650000,730000
+Baleno_Delta,Maruti Baleno,Delta,"Touchscreen, Rear Camera","1197cc Petrol, Manual, 90bhp",22.9,4,Mumbai,750000,850000
+Baleno_Alpha,Maruti Baleno,Alpha,"HUD, LED Lights","1197cc Petrol, CVT, 90bhp",22.3,4,Bangalore,950000,1080000
+AltoK10_STD,Maruti Alto K10,STD,Basic Safety,"998cc Petrol, Manual, 67bhp",24.9,3,Delhi,400000,450000
+AltoK10_LXI,Maruti Alto K10,LXI,Power Steering,"998cc Petrol, Manual, 67bhp",24.9,3,Mumbai,450000,510000
+AltoK10_VXI,Maruti Alto K10,VXI,"Infotainment, AC","998cc Petrol, Manual, 67bhp",24.9,3,Bangalore,500000,570000
+WagonR_LXI,Maruti WagonR,LXI,Dual Airbags,"1197cc Petrol, Manual, 89bhp",23.5,4,Delhi,550000,620000
+WagonR_VXI,Maruti WagonR,VXI,Touchscreen,"1197cc Petrol, Manual, 89bhp",23.5,4,Mumbai,650000,730000
+WagonR_ZXI,Maruti WagonR,ZXI,Alloy Wheels,"1197cc Petrol, AMT, 89bhp",22.5,4,Bangalore,750000,850000
+i20_Magna,Hyundai i20,Magna,Touchscreen,"1197cc Petrol, Manual, 88bhp",20.3,4,Delhi,750000,850000
+i20_Sportz,Hyundai i20,Sportz,Wireless Android Auto,"1197cc Petrol, Manual, 88bhp",20.3,4,Mumbai,850000,970000
+i20_Asta,Hyundai i20,Asta,"Sunroof, Cruise Control","1197cc Petrol, CVT, 88bhp",20,4,Bangalore,1050000,1200000
+Aura_S,Hyundai Aura,S,Touchscreen,"1197cc Petrol, Manual, 83bhp",20.5,4,Delhi,650000,730000
+Aura_SX,Hyundai Aura,SX,Wireless Charging,"1197cc Petrol, Manual, 83bhp",20.5,4,Mumbai,750000,850000
+Aura_SXPlus,Hyundai Aura,SX+,Cruise Control,"1197cc Petrol, AMT, 83bhp",20,4,Bangalore,850000,970000
+Nexon_XE,Tata Nexon,XE,Dual Airbags,"1199cc Turbo Petrol, Manual, 120bhp",17.5,5,Delhi,800000,900000
+Nexon_XM,Tata Nexon,XM,Touchscreen,"1199cc Turbo Petrol, Manual, 120bhp",17.5,5,Mumbai,900000,1000000
+Nexon_XZPlus,Tata Nexon,XZ+,"Sunroof, JBL Audio","1199cc Turbo Petrol, AMT, 120bhp",17,5,Bangalore,1150000,1300000
+Punch_Pure,Tata Punch,Pure,Basic Safety,"1199cc Petrol, Manual, 86bhp",20.1,5,Delhi,600000,680000
+Punch_Adventure,Tata Punch,Adventure,Touchscreen,"1199cc Petrol, Manual, 86bhp",20.1,5,Mumbai,700000,800000
+Punch_Creative,Tata Punch,Creative,Alloy Wheels,"1199cc Petrol, AMT, 86bhp",19.5,5,Bangalore,850000,960000
+Altroz_XE,Tata Altroz,XE,Basic Infotainment,"1199cc Petrol, Manual, 86bhp",19.3,5,Delhi,650000,740000
+Altroz_XM,Tata Altroz,XM,Touchscreen,"1199cc Petrol, Manual, 86bhp",19.3,5,Mumbai,750000,860000
+Altroz_XZ,Tata Altroz,XZ,Cruise Control,"1199cc Petrol, Manual, 86bhp",19,5,Bangalore,900000,1020000
+Creta_E,Hyundai Creta,E,Basic Safety,"1497cc Petrol, Manual, 115bhp",17,4,Delhi,1050000,1200000
+Creta_EX,Hyundai Creta,EX,"Touchscreen, Camera","1497cc Petrol, Manual, 115bhp",17,4,Mumbai,1150000,1300000
+Creta_SX,Hyundai Creta,SX,Sunroof,"1497cc Petrol, CVT, 115bhp",17,4,Bangalore,1400000,1600000
+Venue_E,Hyundai Venue,E,Basic Safety,"1197cc Petrol, Manual, 83bhp",18.5,4,Delhi,800000,900000
+Venue_S,Hyundai Venue,S,Touchscreen,"1197cc Petrol, Manual, 83bhp",18.5,4,Mumbai,900000,1020000
+Venue_SX,Hyundai Venue,SX,Sunroof,"998cc Turbo Petrol, DCT, 120bhp",18,4,Bangalore,1100000,1250000
+Sonet_HTE,Kia Sonet,HTE,Basic Safety,"1197cc Petrol, Manual, 83bhp",18.4,4,Delhi,800000,900000
+Sonet_HTK,Kia Sonet,HTK,Touchscreen,"1197cc Petrol, Manual, 83bhp",18.4,4,Mumbai,900000,1020000
+Sonet_GTX,Kia Sonet,GTX,Ventilated Seats,"998cc Turbo Petrol, DCT, 120bhp",18.2,4,Bangalore,1300000,1500000
+XUV300_W4,Mahindra XUV300,W4,Basic Safety,"1197cc Turbo Petrol, Manual, 110bhp",17,5,Delhi,850000,960000
+XUV300_W6,Mahindra XUV300,W6,Touchscreen,"1197cc Turbo Petrol, Manual, 110bhp",17,5,Mumbai,950000,1080000
+XUV300_W8,Mahindra XUV300,W8,Sunroof,"1197cc Turbo Petrol, AMT, 110bhp",16.5,5,Bangalore,1150000,1300000
+XUV700_AX3,Mahindra XUV700,AX3,Dual Screen,"1999cc Petrol, Manual, 200bhp",15,5,Delhi,1500000,1750000
+XUV700_AX5,Mahindra XUV700,AX5,ADAS Ready,"1999cc Petrol, Automatic, 200bhp",15,5,Mumbai,1700000,2000000
+XUV700_AX7,Mahindra XUV700,AX7,"ADAS, Sunroof","2198cc Diesel, Automatic, 185bhp",16.5,5,Bangalore,2100000,2450000
+City_V,Honda City,V,Touchscreen,"1498cc Petrol, Manual, 121bhp",18.4,5,Delhi,1150000,1300000
+City_VX,Honda City,VX,Sunroof,"1498cc Petrol, CVT, 121bhp",18.4,5,Mumbai,1350000,1550000
+City_ZX,Honda City,ZX,6 Airbags,"1498cc Petrol, CVT, 121bhp",18.4,5,Bangalore,1500000,1700000
+Amaze_E,Honda Amaze,E,Basic Safety,"1199cc Petrol, Manual, 90bhp",18.6,4,Delhi,700000,790000
+Amaze_S,Honda Amaze,S,Touchscreen,"1199cc Petrol, Manual, 90bhp",18.6,4,Mumbai,800000,900000
+Amaze_VX,Honda Amaze,VX,Cruise Control,"1199cc Petrol, CVT, 90bhp",18.3,4,Bangalore,950000,1080000
